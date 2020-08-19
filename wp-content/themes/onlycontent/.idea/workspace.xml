@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c06ebb4-47f3-4a98-a299-846be1233753" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1dGdvR0Wd2UyWxLwGYX0ru5SAMl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="t.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/t.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.t.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c06ebb4-47f3-4a98-a299-846be1233753" name="Default Changelist" comment="" />
+      <created>1592055594015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592055594015</updated>
+      <workItem from="1592055595872" duration="1442000" />
+      <workItem from="1592224240180" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="100" key="#PHP" timestamp="1592224278671">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="389" y="100" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1592224278671" />
+    <state x="406" y="152" key="#t.php" timestamp="1592224279907">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="406" y="152" key="#t.php/0.0.1440.900@0.0.1440.900" timestamp="1592224279907" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1592474776103">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592474776103" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1592474776101">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592474776101" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1592474776101">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592474776101" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1592474776102">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592474776102" />
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1592224251264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1592224251264" />
+    <state x="421" y="205" width="598" height="490" key="find.popup" timestamp="1592059967430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1592059967430" />
+  </component>
+</project>
